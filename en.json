@@ -1,0 +1,53 @@
+{
+  "title": "en",
+  "description": "",
+  "artist": "ken",
+  "author": "lo",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Kinematics",
+      "volume": "",
+      "last_updated": "1474581503",
+      "groups": {
+        "": [
+          "https://i.imgur.com/YywGToI.png",
+          "https://i.imgur.com/wcn40j6.png",
+          "https://i.imgur.com/egY6NXS.png",
+          "https://i.imgur.com/Krm4Zj8.png",
+          "https://i.imgur.com/eMzuofZ.png",
+          "https://i.imgur.com/krhsnKO.png",
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "Dynamics",
+      "volume": "",
+      "last_updated": "1570658402",
+      "groups": {
+        "": [
+          "https://i.imgur.com/iIGrhC1.png",
+          "https://i.imgur.com/f1MsDpl.png",
+          "https://i.imgur.com/V6tA5Qa.png",
+          "https://i.imgur.com/DC22Rf6.png",
+          "https://i.imgur.com/rSkYlhq.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "Waves",
+      "volume": "",
+      "last_updated": "1703458872",
+      "groups": {
+        "": [
+          "https://i.imgur.com/GAwml8l.png",
+          "https://i.imgur.com/QwTitYr.png",
+          "https://i.imgur.com/cxn4CzQ.png",
+          "https://i.imgur.com/faKmpMv.png",
+          "https://i.imgur.com/GdPJaaY.png"
+        ]
+      }
+    }
+  }
+}
